@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooyoopaeg.grjywszn.top/sitemap.xml
